@@ -1,0 +1,23 @@
+{
+  "name": "bch-js-scratchpad",
+  "version": "1.0.0",
+  "description": "A place to store and share code ideas around bch-js.",
+  "main": "get-nft-from-wif.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christroutner/bch-js-scratchpad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christroutner/bch-js-scratchpad/issues"
+  },
+  "homepage": "https://github.com/christroutner/bch-js-scratchpad#readme",
+  "dependencies": {
+    "@psf/bch-js": "6.4.1",
+    "minimal-slp-wallet": "4.6.1"
+  }
+}
